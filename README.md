@@ -4,4 +4,4 @@ This scripts get the hash of the file and send to virus total API to check if
 the hash is same as previously reported malicious file
 
 ## IMAGE
-![usageImage]('./virustotal.PNG')
+![usageImage](https://github.com/nurbxfit/SIMPLE_VIRUS_SCANNER/blob/master/virustotal.PNG "DEMO")
